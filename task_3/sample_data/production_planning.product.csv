@@ -1,0 +1,7 @@
+parameter,P1,P2,P3,P4,P5
+demand,9000,2000,8000,1000,6000
+cost_inhouse,116,87,29,85,55
+cost_outsource,129,100,33,92,62
+machine_time,4,2,1,4,4
+assembly_time,3,4,1,1,1
+finishing_time,3,3,2,2,2
